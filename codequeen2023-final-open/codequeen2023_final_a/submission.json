@@ -1,0 +1,12 @@
+{
+	"id": 44323503,
+	"epoch_second": 1691296270,
+	"problem_id": "codequeen2023_final_a",
+	"contest_id": "codequeen2023-final-open",
+	"user_id": "kohe1",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 52,
+	"result": "AC",
+	"execution_time": 116
+}
